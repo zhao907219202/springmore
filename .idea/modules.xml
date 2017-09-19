@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmore.iml" filepath="$PROJECT_DIR$/springmore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmore-commons/springmore-commons.iml" filepath="$PROJECT_DIR$/springmore-commons/springmore-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmore-core/springmore-core.iml" filepath="$PROJECT_DIR$/springmore-core/springmore-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmore-easygrid/springmore-easygrid.iml" filepath="$PROJECT_DIR$/springmore-easygrid/springmore-easygrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmore-redis/springmore-redis.iml" filepath="$PROJECT_DIR$/springmore-redis/springmore-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmore-rpc/springmore-rpc.iml" filepath="$PROJECT_DIR$/springmore-rpc/springmore-rpc.iml" />
+    </modules>
+  </component>
+</project>

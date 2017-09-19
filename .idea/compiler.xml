@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmore-commons" />
+        <module name="springmore-core" />
+        <module name="springmore-easygrid" />
+        <module name="springmore-redis" />
+        <module name="springmore-rpc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmore" target="1.8" />
+      <module name="springmore-commons" target="1.7" />
+      <module name="springmore-core" target="1.7" />
+      <module name="springmore-easygrid" target="1.7" />
+      <module name="springmore-redis" target="1.7" />
+      <module name="springmore-rpc" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
